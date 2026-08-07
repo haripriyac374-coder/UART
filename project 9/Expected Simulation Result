@@ -1,0 +1,14 @@
+Transmit Data : A5
+
+Serial Output:
+Start Bit -> 0
+
+Data Bits:
+1 0 1 0 0 1 0 1
+
+Stop Bit -> 1
+
+Receiver Output:
+A5
+
+Simulation Successful
